@@ -28,8 +28,7 @@ import javax.swing.ImageIcon;
 
             sum = num1 + num2;
             msgTitle ="Java program by " + name + "!";
-            strOutput = "The sum of " + num1 +
-                    " and " + num2 + " is " + sum;
+            strOutput = "The sum of " + num1 + " and " + num2 + " is " + sum;
 
             //outputs to a console
             System.out.println(msgTitle +"\n" + strOutput);

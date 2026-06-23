@@ -59,7 +59,18 @@ import javax.swing.ImageIcon;
     }
 
 /*
-Copy and paster your test runs/output here
+Test Run #1
+
+Name entered: Nazila Mohammadi
+First number: 10
+Second number: 20
+
+Output:
+The sum of 10 and 20 is 30
+
+Java logo displayed correctly.
+Exit dialog displayed correctly.
+Program terminated successfully.
  */
 
 
